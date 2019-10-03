@@ -1,14 +1,27 @@
 body{
     background-image: url("./concrete.png");
 }
-.container{
-    background-color: rgb(20, 150, 143);
-    width: 600px;
-    height: 650px;
+.navbar-brand{
+    background-color: aquamarine;
+    padding: 15px;
 }
+#navbarNav{
+    margin-left: 720px;
+}
+
 h1{
     color:white;
     text-align: center;
+}
+
+.media{
+    margin-left: 330px;
+    height: 450px;
+    width: 450px;
+    background-color: white;
+}
+.selfie{
+    float: none;
 }
 .footer{
     width: 100%;
