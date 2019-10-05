@@ -3,8 +3,9 @@ body {
 }
 
 .navbar-brand {
-    background-color: aquamarine;
+    background-color:  rgb(20, 150, 143);
     padding: 15px;
+    color: white;
 }
 
 #navbarNav {
@@ -63,10 +64,10 @@ body {
 }
 
 #submit {
-    background-color: teal;
+    background-color:  rgb(20, 150, 143);
     display: block;
     margin: 0 auto;
-    border: 1px solid teal;
+    border: 1px solid  rgb(20, 150, 143);
     margin-top: 15px;
     width: 90%;
 }
@@ -78,7 +79,6 @@ body {
 }
 
 .card {
-    height: 500px:
     width: 800px;
     margin-bottom: 32px;
 }
@@ -94,7 +94,7 @@ body {
     position: absolute;
     bottom: 10px;
     width: 100%;
-    background: teal;
+    background:  rgb(20, 150, 143);
     color: white;
     text-align: center;
     height: 30px;
