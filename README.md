@@ -1,5 +1,5 @@
 # Bootstrap-Repo
-Using Bootstrap to make a basic Portfolio template for Future use.
+Using Bootstrap to make a basic **Portfolio Template** for use in designing your very own portfolio!
 
 ## Technologies used:
 -Bootstrap
@@ -20,7 +20,11 @@ Simply select which page you would like to go to with the nav bar by clicking ei
 ### Contributing
 Feel free to make adjustments as all Pull requests are welcome.
 
-![About]()
+Step 1: Fork it! or Pull the Repository.
 
+Step 2: Hack away!
+
+![about](https://github.com/Johnmpaul1997/Bootstrap-Repo/blob/master/assets/Screenshot%20(27).png "about")
+<!--Could not properly link screenshot-->
 
 
