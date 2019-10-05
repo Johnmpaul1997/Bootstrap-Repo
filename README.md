@@ -24,6 +24,8 @@ Step 1: Fork it! or Pull the Repository.
 
 Step 2: Hack away!
 
+Step 3: Creat a new Pull request here (https://github.com/Johnmpaul1997/Bootstrap-Repo)
+
 ![about](https://github.com/Johnmpaul1997/Bootstrap-Repo/blob/master/assets/Screenshot%20(27).png "about")
 <!--Could not properly link screenshot-->
 
