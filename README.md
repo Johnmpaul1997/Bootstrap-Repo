@@ -26,6 +26,7 @@ Step 2: Hack away!
 
 Step 3: Creat a new Pull request here (https://github.com/Johnmpaul1997/Bootstrap-Repo)
 
-![](images/Screenshot%20(27).png)
+![](images/About.png)
+<!--still cant get the images to work in .md>
 
 
